@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,6 @@ content: [
     './pages/**/*.{html,js}',
     './components/**/*.{html,js}',
   ],
+=======
+# GPT2.0
+>>>>>>> cdce4a420c4a3c32ff27672ddc0fa4b431e70369
